@@ -1,4 +1,4 @@
-# 👋 Os fundamentos do GitHub
+#  Os fundamentos do GitHub👋👋👋
 
 ## 🤓 Visão geral do curso e resultados de aprendizado
 
